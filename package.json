@@ -1,0 +1,29 @@
+{
+  "name": "adventofcode2022",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "compute-lcm": "^1.1.2",
+    "dijkstrajs": "^1.0.2",
+    "functools": "^3.4.0",
+    "js-sdsl": "^4.2.0",
+    "lcm": "^0.0.3",
+    "minimum-cut": "^1.0.2",
+    "object-hash": "^3.0.0"
+  }
+}
